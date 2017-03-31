@@ -4,6 +4,6 @@ Built a calculator using vanilla Javascript with CSS, Bootstrap, and HTML.
 
 Things to fix/add:
 
-1. Make responsive.
+1. Make responsive (now mobile responsive as of 3/31/2017).
 2. Possibly add a graphing feature.
 3. Add more functions.
